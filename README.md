@@ -66,6 +66,15 @@
         <li>Incidents occur when threats target an asset </li>
     
   </ul>
+  <h1>RISKS</h1>
+<p> A chance that harm will occur. Depends on <h2> Likelihood and impact. </h2>
+  <ul>
+    <li> Risk help prioritize security effort </li>
+      <li> Not all risks are equal. Some are <h2> Higher and some are lower </h2> </li>
+        <li> Humans</li>
+  </ul>
+  <h3> Loss or damage would matter</h3>
+</p>
 
 
 

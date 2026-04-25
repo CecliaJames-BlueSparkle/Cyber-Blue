@@ -26,8 +26,8 @@
 </p>
 
 <h1> ASSETS</h1>
-<p> Possible causes of harm. Threats can be <h2> Internal </h2>
-or <h2> accidental: </h2>  <ul>
+<p> Possible causes of harm. Threats can be <h2> Internal or ccidental:</h2>
+ <ul>
     <li> Can be human </li>
       <li> Technical</li>
         <li>Environmental </li>

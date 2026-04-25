@@ -79,7 +79,7 @@
 
 <h2> Youtube Videos: </h2>
 
-<h2> My certifications</h2>
+<h2> <img src="https://img.icons8.com/color/48/certficatepng" width="25"/> My certifications</h2>
 ## AI Certifcate
 [https://github.com/CecliaJames-BlueSparkle/Cyber-Blue/blob/main/CertificateOfCompletion_Artificial%20Intelligence%20for%20Cybersecurity.pdf](https://github.com/CecliaJames-BlueSparkle/Cyber-Blue/blob/main/Uploads/CertificateOfCompletion_Artificial%20Intelligence%20for%20Cybersecurity%20(copy%201).pdf)
 

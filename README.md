@@ -33,6 +33,16 @@
         <li>Environmental </li>
   </ul>
   <h3> A threat represent a potential danger not harm. </h3>
+
+  h2> Threats examples:</h2>
+   <ul>
+    <li> Hackers and Criminals</li>
+      <li> Technical</li>
+        <li>Phishing emails and Scams </li>
+      <li>Malware and Ransomeware</li>
+      <li>Insider mistakes </li>
+      <li>Power outage and system failure </li>
+  </ul>
 </p>
 
 

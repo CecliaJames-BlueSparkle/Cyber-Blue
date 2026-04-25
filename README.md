@@ -45,7 +45,7 @@
   </ul>
 </p>
 
-h1> VULNERABILITY </h1>
+<h1> VULNERABILITY </h1>
 <p> A weakness that can be exploited <h2> Exist in Systems, Processes or Behavior. Vulneravilities make attacks possible:</h2>
  
   <h2> Vulnerability examples:</h2>
@@ -58,9 +58,8 @@ h1> VULNERABILITY </h1>
  
   </ul>
 </p>
-h1> Threats and Vulnerabilities connection</h1>
+<h1> Threats and Vulnerabilities connection</h1>
 
-  <h2> Vulnerability examples:</h2>
 <ul>
     <li> Threats need vulnerabilities to succeed</li>
       <li> Vulnerabilities without threats cause no harm</li>

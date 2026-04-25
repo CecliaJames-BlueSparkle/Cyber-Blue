@@ -8,6 +8,23 @@
 
 
 <h2> My Learnings:</h2>
+<h5> ASSETS, THREATS & RISKS </h5>
+<p> Most Cyber Security incidents follow a parten </p> /n
+<ul> </ul><li> Something valuable exist </li>
+<li> There is a weakness that can be exploited </li>
+</ul>
+</p> 
+
+<h2> ASSETS</h2>
+<p> Anything of value - worthy protecting. Such as 
+  <ul>
+    <li> Digital : Websites, cloud apps </li>
+      <li> Physical- servers, server rooms</li>
+        <li> Humans</li>
+  </ul>
+  <h5> Loss or damage would matter</h5>
+</p>
+
 
 
 

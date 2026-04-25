@@ -34,7 +34,7 @@
   </ul>
   <h3> A threat represent a potential danger not harm. </h3>
 
-  h2> Threats examples:</h2>
+  <h2> Threats examples:</h2>
 <ul>
     <li> Hackers and Criminals</li>
       <li> Technical</li>

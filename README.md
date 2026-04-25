@@ -15,4 +15,9 @@
 <h2> Youtube Vdeos: </h2>
 
 <h3> My certifications</h3>
+## AI Certifcate
+https://github.com/CecliaJames-BlueSparkle/Cyber-Blue/blob/main/CertificateOfCompletion_Artificial%20Intelligence%20for%20Cybersecurity.pdf
+
+## Cyber Security Certificate
+
 

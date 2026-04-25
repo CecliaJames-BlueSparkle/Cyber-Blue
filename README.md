@@ -25,7 +25,7 @@
   <h3> Loss or damage would matter</h3>
 </p>
 
-<h1> ASSETS</h1>
+<h1> THREATS </h1>
 <p> Possible causes of harm. Threats can be <h2> Internal or ccidental:</h2>
  <ul>
     <li> Can be human </li>
@@ -45,6 +45,28 @@
   </ul>
 </p>
 
+h1> VULNERABILITY </h1>
+<p> A weakness that can be exploited <h2> Exist in Systems, Processes or Behavior. Vulneravilities make attacks possible:</h2>
+ 
+  <h2> Vulnerability examples:</h2>
+<ul>
+    <li> Weak or reused passwords </li>
+      <li> Outdated softwares </li>
+        <li>Poor System confiurations </li>
+      <li> Clicking unknown links</li>
+      <li> Lack of security awareness </li>
+ 
+  </ul>
+</p>
+h1> Threats and Vulnerabilities connection</h1>
+
+  <h2> Vulnerability examples:</h2>
+<ul>
+    <li> Threats need vulnerabilities to succeed</li>
+      <li> Vulnerabilities without threats cause no harm</li>
+        <li>Incidents occur when threats target an asset </li>
+    
+  </ul>
 
 
 

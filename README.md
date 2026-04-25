@@ -15,14 +15,24 @@
 </ul>
 </p> 
 
-<h2> ASSETS</h2>
+<h1> ASSETS</h1>
 <p> Anything of value - worthy protecting. Such as 
   <ul>
     <li> Digital : Websites, cloud apps </li>
       <li> Physical- servers, server rooms</li>
         <li> Humans</li>
   </ul>
-  <h5> Loss or damage would matter</h5>
+  <h3> Loss or damage would matter</h3>
+</p>
+
+<h1> ASSETS</h1>
+<p> Possible causes of harm. Threats can be <h2> Internal </h2>
+or <h2> accidental: </h2>  <ul>
+    <li> Can be human </li>
+      <li> Technical</li>
+        <li>Environmental </li>
+  </ul>
+  <h3> A threat represent a potential danger not harm. </h3>
 </p>
 
 

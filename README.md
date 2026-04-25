@@ -71,9 +71,7 @@
   <ul>
     <li> Risk help prioritize security effort </li>
       <li> Not all risks are equal. Some are <h2> Higher and some are lower </h2> </li>
-        <li> Humans</li>
-  </ul>
-  <h3> Loss or damage would matter</h3>
+      
 </p>
 
 

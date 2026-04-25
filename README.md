@@ -13,3 +13,6 @@
 
 
 <h2> Youtube Vdeos: </h2>
+
+<h3> My certifications</h3>
+

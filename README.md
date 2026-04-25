@@ -77,7 +77,7 @@
 
 
 
-<h2> Youtube Vdeos: </h2>
+<h2> Youtube Videos: </h2>
 
 <h2> My certifications</h2>
 ## AI Certifcate

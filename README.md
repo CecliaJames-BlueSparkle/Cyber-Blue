@@ -7,7 +7,7 @@
 
 
 
-<h2> My Learnings:</h2>
+<h2> <img src="https://img.icons8.com/color/48/000000/learning.png" width="25"/> My Learnings:</h2>
 <h1 style="color: blue;"> ASSETS, THREATS & RISKS </h1>
 <p> Most Cyber Security incidents follow a pattern </p> 
 <ul> </ul><li> Something valuable exist </li>

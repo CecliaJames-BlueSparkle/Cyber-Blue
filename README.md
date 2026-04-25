@@ -7,7 +7,7 @@
 
 
 
-<h2> I  Learnings:</h2>
+<h2> My Learnings:</h2>
 
 
 

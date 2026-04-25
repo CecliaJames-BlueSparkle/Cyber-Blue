@@ -9,7 +9,7 @@
 
 <h2> My Learnings:</h2>
 <h5> ASSETS, THREATS & RISKS </h5>
-<p> Most Cyber Security incidents follow a parten </p> /n
+<p> Most Cyber Security incidents follow a pattern </p> 
 <ul> </ul><li> Something valuable exist </li>
 <li> There is a weakness that can be exploited </li>
 </ul>
